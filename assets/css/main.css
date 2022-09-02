@@ -831,7 +831,7 @@ input, textarea {
     -webkit-transform: matrix(1.0110731102, 0, 0, 1.0110731102, 0, 0);
     transform: matrix(1.0110731102, 0, 0, 1.0110731102, 0, 0);
     margin: 10px 0;
-    color: #F8F8FF;
+    color: #fff;
     font-size: 16vw;
     text-align: center;
     text-transform: uppercase;
