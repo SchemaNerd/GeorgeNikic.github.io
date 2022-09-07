@@ -1127,6 +1127,21 @@ p1 {
     background-repeat: no-repeat
 }
 
+.web-design__visual2 {
+    position: absolute;
+    top: 50%;
+    right: 52%;
+    -webkit-transform: translateY(-45%);
+    transform: translateY(-45%);
+    width: 828px;
+    height: 581px;
+    margin: 0;
+    background-image: url("../img/cleaning-visual.jpeg");
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat
+}
+
 @media (max-width: 991px) {
     .web-design__content h2 {
         font-size: 48px
