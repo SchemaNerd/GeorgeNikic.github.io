@@ -1489,8 +1489,8 @@ p1 {
     -webkit-box-pack: justify;
     -webkit-justify-content: space-between;
     -ms-flex-pack: justify;
-    justify-content: space-between;
-    padding: 65px 0
+    justify-content: space-evenly;
+    padding: 60px 0
 }
 
 .contact__wrapper::before {
