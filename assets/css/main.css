@@ -1473,7 +1473,7 @@ p1 {
 
 .contact {
     position: relative;
-    padding: 40px 0;
+    padding: 65px 0;
     background-color: #fafafa
 }
 
@@ -1490,7 +1490,7 @@ p1 {
     -webkit-justify-content: space-between;
     -ms-flex-pack: justify;
     justify-content: space-between;
-    padding: 60px 0
+    padding: 40px 0
 }
 
 .contact__wrapper::before {
